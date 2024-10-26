@@ -1,0 +1,5 @@
+**/chatbotLibrary/
+**/__pycache__/
+
+.env
+secret.txt
